@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+ULTRAKILL is a fast-paced ultra-violent retro FPS that combines the skill-based style scoring of character action games with the unadulterated carnage inspired by the best shooters of the '90s. Rip apart your foes with varied destructive weaponry and shower in their blood to regain your health.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 / Rec: Windows 11 | macOS 11.0 or later |
+| **Processor** | Min: 2.4 GHz Dual Core Processor Or Higher / Rec: 3.1 GHz Quad Core Processor Or Higher | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GeForce GTX 560 Or Equivalent / Rec: Geforce GTX 970 Or Equivalent | Metal-capable GPU |
+| **DirectX** | Min: Version 11 / Rec: Version 12 | Version 11 |
+| **Storage** | 3 GB available space | 3 GB available space |
+| **Sound Card** | Min: No vocal interface detected. / Rec: Yet I must scream. | No vocal interface detected. |
 
 ---
 
